@@ -1,1 +1,1 @@
-# SotfServerFiles
+These are the 'Sons of the Forest' server files. To use them, simply replace the 'Multiplayer' folder with this repository, usually found in 'C:\Users\%USERPROFILE%\AppData\LocalLow\Endnight\SonsOfTheForest\Saves\<long number>\Multiplayer'.
